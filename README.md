@@ -1,4 +1,6 @@
 # Data Science & Agentic AI Programme
+My name is Egbierele
+
 
 An 8-week programme from machine learning to multi-agent AI, with a Week 0 onboarding sprint.
 
