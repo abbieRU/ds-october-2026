@@ -1,8 +1,9 @@
 # Data Science & Agentic AI Programme
-My name is Egbierele
+I am pushing to the feat/test branch
 
 
 An 8-week programme from machine learning to multi-agent AI, with a Week 0 onboarding sprint.
+
 
 - **Repository:** <https://github.com/samuelts96/ds-october-2026>
 - **Syllabus:** [syllabus/DS_Agentic_AI_Syllabus.pdf](syllabus/DS_Agentic_AI_Syllabus.pdf)
